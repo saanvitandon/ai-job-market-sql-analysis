@@ -1,4 +1,4 @@
--- Q.1: How many AI job postings were published each month?
+-- Q.1: How has AI job posting activity changed over time?
 SELECT 
   DATE_FORMAT(posting_date, '%Y-%m') AS month,
   COUNT(*) AS job_postings
@@ -21,7 +21,7 @@ GROUP BY company_name
 ORDER BY job_postings DESC
 ;
 
--- Q.4: How has the demand for AI jobs changed from 2024 to 2025?
+-- Q.4: How has demand changed from 2024 to 2025?
 SELECT YEAR(posting_date) as year, COUNT(*) AS job_postings
 FROM ai_job_dataset
 GROUP BY year
