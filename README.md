@@ -8,9 +8,7 @@ Global AI Job Market and Salary Trends (2025) on Kaggle: https://www.kaggle.com/
 
 # Project by
 
-Saanvi Tandon
-B.Tech CSE | VIT Vellore  
-Aspiring Data Analyst
+Saanvi Rajesh Tandon
 
 # Objective
 
