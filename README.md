@@ -27,14 +27,14 @@ This project analyzes the AI job market using SQL, focusing on:
 
 1. How has AI job posting activity changed over time?
 2. Which countries are hiring the most for AI roles?
-3. Which companies post the most AI jobs?
+3. Which companies are posting the highest number of AI jobs?
 4. How has demand changed from 2024 to 2025?
 5. Which experience levels are most in demand?
-6. Most common AI job titles
-7. Which roles are growing fastest?
-8. Which countries offer the most remote AI jobs?
-9. Countries with the highest average AI salaries
-10. Is there a salary difference between remote and on-site roles?
+6. What are the most common AI job titles?
+7. Which job titles are growing the fastest over time?
+8. Which countries are offering the most remote AI jobs?
+9. Which country offers the highest average salary?
+10. Is there a relationship between remote work and salary?
 
 # Files
 
@@ -42,9 +42,9 @@ This project analyzes the AI job market using SQL, focusing on:
 
 # Insights
 
-- All job titles saw **reduced hiring** in 2025 compared to 2024 ✅
-- Remote roles offer the **highest salaries** ✅
-- Countries like Denmark and Switzerland lead in **average salary** ✅
+- All job titles saw **reduced hiring** in 2025 compared to 2024
+- Remote roles offer the **highest salaries**
+- Countries like Denmark and Switzerland lead in **average salary**
 - France and Sweden are **hiring the most** for AI roles
 - TechCorp Inc is posting the **highest number** of AI jobs
 
